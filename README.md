@@ -2,6 +2,8 @@
 
 This repository contains an implementation of the **Co-Kriging regression method**, which objective is to showcase how multi-fidelity modeling can improve prediction accuracy compared to standard Kriging.
 
+<img src="imgs/GraphicalAbstractFig.png" width="80%">
+
 ---
 
 ### Overview
@@ -52,31 +54,33 @@ URL = {https://doi.org/10.1177/14759217241265375},
 
 This repository is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
+<img src="Logos/mit_license_red.png" width="15%"> 
+
 ### Institutional support
 
 This research was conducted within the Department of Mechanical Engineering, School of Engineering of Ilha Solteira (FEIS/UNESP).
 
-<img src="logo/logo_feis.png" width="15%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="20%">
+<img src="Logos/logo_feis.png" width="15%"> &nbsp; &nbsp; <img src="Logos/logolab.png" width="20%">
 
 ### Funding
 
-The development of **ElasticityPINN** was supported by research agencies through the following grants:
+The development of this work was supported by research agencies through the following grants:
 
-- São Paulo Research Foundation (FAPESP), grant number 2022/16156-9
-- National Council for Scientific and Technological Development (CNPq/Brazil), grant number 309467/2023-3
+- São Paulo Research Foundation (FAPESP), grant number 2022/12575-7
+- National Council for Scientific and Technological Development (CNPq/Brazil)
 - National Institute of Science and Technology, Smart Structures in Engineering (INCT-EIE)
    - Funded by the Brazilian agencies:
       -  CNPq, grant number 406148/2022-8
       -  Coordination for the Improvement of Higher Education Personnel (CAPES)
       -  Minas Gerais State Research Support Foundation (FAPEMIG)
 
-<img src="logo/sponsors.png" width="60%">
+<img src="Logos/sponsors.png" width="60%">
 
 ### Contact
 
 For questions, collaborations, or further information, please contact:
 
-- **Estevão Fuzaro de Almeida** — [estevao.fuzaro@unesp.br](mailto:estevao.fuzaro@unesp.br)  
+- **Henrique Cordeiro Novais** — [henrique.cnovais@unesp.br](mailto:henrique.cnovais@unesp.br)  
 - **Prof. Samuel da Silva** — [samuel.silva13@unesp.br](mailto:samuel.silva13@unesp.br)
 
 
