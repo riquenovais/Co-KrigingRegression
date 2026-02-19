@@ -2,7 +2,7 @@
 
 This repository contains an implementation of the **Co-Kriging regression method**, which objective is to showcase how multi-fidelity modeling can improve prediction accuracy compared to standard Kriging.
 
-<img src="imgs/GraphicalAbstractFig.png" width="80%">
+<img src="fig_cokriging.png" width="80%">
 
 ---
 
