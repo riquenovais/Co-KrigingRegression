@@ -20,8 +20,9 @@ To run this code, it is necessary to have the <a href="https://www.uqlab.com/" t
 - ### Citing
 > [!IMPORTANT]
 > If you use this code in your research, please cite the following publications:
-> - H. C. Novais and S. da Silva, *[Co-Kriging strategy for structural health monitoring of bridges]*, **Structural Health Monitoring**, 2024. [DOI: 10.1177/14759217241265375](https://journals.sagepub.com/doi/10.1177/14759217241265375)
-> - H. C. Novais and S. da Silva, *[Delamination detection and quantification in composites using co-Kriging with Lamb wave data]*, **Mechanical Systems and Signal Processing**, 2025. [DOI: 10.1016/j.ymssp.2025.110040](https://www.sciencedirect.com/science/article/pii/S0888327025010040)
+> - Novais HC, da Silva S, Figueiredo E. Co-Kriging strategy for structural health monitoring of bridges. Structural Health Monitoring. 2024;24(5):2927-2940 [DOI: 10.1177/14759217241265375](https://journals.sagepub.com/doi/10.1177/14759217241265375)
+> - H. C. Novais, S. da Silva, C. Hoareau and J.-F. Deü, *Delamination detection and quantification in composites using co-Kriging with Lamb wave data*, **Mechanical Systems and Signal Processing**, 2025. [DOI: 10.1016/j.ymssp.2025.110040](https://www.sciencedirect.com/science/article/pii/S0888327025010040)
+
 
 
 ```
